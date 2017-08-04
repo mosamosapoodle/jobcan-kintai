@@ -2,17 +2,17 @@
 ### インストール
 
 ```
-$ git clone git@github.com:mosamosapoodle/jobkan-kintai.git
+$ git clone git@github.com:mosamosapoodle/jobcan-kintai.git
 ```
 
 ### gem インストール
 
 ```
-$ cd jobkan-kintai
+$ cd jobcan-kintai
 $ bundle install --path vendor/bundle
 ```
 
- ※ jobkan-kintaiディレクトリ配下vendor/bundleディレクトリ内にインストールされる。
+ ※ jobcan-kintaiディレクトリ配下vendor/bundleディレクトリ内にインストールされる。
 
 ### 環境変数ファイル 作成・設定
 
